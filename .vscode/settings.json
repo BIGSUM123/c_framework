@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "dog.h": "c",
+        "stdio.h": "c",
+        "unit.h": "c",
+        "poison.h": "c",
+        "marine.h": "c",
+        "tank.h": "c"
+    }
+}
