@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "unit.h"
 #include "human_factory.h"
 #include "alient_factory.h"

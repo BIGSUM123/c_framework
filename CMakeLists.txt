@@ -3,6 +3,8 @@ cmake_minimum_required(VERSION 3.15)
 # 项目名和版本号
 project(FutureProject VERSION 1.0 LANGUAGES C)
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 # 设置C标准
 set(CMAKE_C_STANDARD 99)
 set(CMAKE_C_STANDARD_REQUIRED True)
